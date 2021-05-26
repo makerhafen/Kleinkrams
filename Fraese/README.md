@@ -7,5 +7,5 @@
 ![](Spannzangenhalter.png)
 
 ### Spezialschlüssel
-![](Spezialschlüssel.png)
+![](Spezialschluessel.png)
 
