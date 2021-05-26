@@ -3,6 +3,6 @@
 
 ### Fliegenfallenaufkleberhalter
 
-![](Fliegenfallenkleberfesthalter)
+![](Fliegenfallenkleberfesthalter.png)
 
 
